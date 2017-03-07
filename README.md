@@ -5,3 +5,9 @@ In this example, I'm demostrating how you would run code on a remote server with
 Here you would make all of your changes to a `shell script` and still be able to excute the remote file stored on github.
 
 This is by no means a complete example and there probably are some modifications you would want to make, like encrypting your file for example.
+
+Tools used:
+
+1. [`bash`](https://www.gnu.org/software/bash/) - To run the scripts
+2. [`jq`](https://stedolan.github.io/jq/) - To process the results
+3. [`sed`](http://www.grymoire.com/Unix/Sed.html) - To clean up results
