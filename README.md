@@ -11,3 +11,4 @@ Tools used:
 1. [`bash`](https://www.gnu.org/software/bash/) - To run the scripts
 2. [`jq`](https://stedolan.github.io/jq/) - To process the results
 3. [`sed`](http://www.grymoire.com/Unix/Sed.html) - To clean up results
+4. [`Github Contents API`](https://developer.github.com/v3/repos/contents/) - To call the contents of your script.
